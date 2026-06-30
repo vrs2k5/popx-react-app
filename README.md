@@ -41,7 +41,7 @@ npm run build
 ```
 
 ## Live Demo
-[Add your deployed Vercel/Netlify link here]
+https://popx-react-app1.netlify.app/
 
 ## Design Reference
 Adobe XD: https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd
